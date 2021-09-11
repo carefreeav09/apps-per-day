@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/http//carefreeav09.github.io/apps-per-day/static/css/main.a617e044.chunk.css",
-    "main.js": "/http//carefreeav09.github.io/apps-per-day/static/js/main.ddff0e38.chunk.js",
-    "main.js.map": "/http//carefreeav09.github.io/apps-per-day/static/js/main.ddff0e38.chunk.js.map",
-    "runtime-main.js": "/http//carefreeav09.github.io/apps-per-day/static/js/runtime-main.00452182.js",
-    "runtime-main.js.map": "/http//carefreeav09.github.io/apps-per-day/static/js/runtime-main.00452182.js.map",
-    "static/js/2.dcab9478.chunk.js": "/http//carefreeav09.github.io/apps-per-day/static/js/2.dcab9478.chunk.js",
-    "static/js/2.dcab9478.chunk.js.map": "/http//carefreeav09.github.io/apps-per-day/static/js/2.dcab9478.chunk.js.map",
-    "static/js/3.4d1896fa.chunk.js": "/http//carefreeav09.github.io/apps-per-day/static/js/3.4d1896fa.chunk.js",
-    "static/js/3.4d1896fa.chunk.js.map": "/http//carefreeav09.github.io/apps-per-day/static/js/3.4d1896fa.chunk.js.map",
-    "index.html": "/http//carefreeav09.github.io/apps-per-day/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/http//carefreeav09.github.io/apps-per-day/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.dcab9478.chunk.js.LICENSE.txt": "/http//carefreeav09.github.io/apps-per-day/static/js/2.dcab9478.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/http//carefreeav09.github.io/apps-per-day/static/media/logo.6ce24c58.svg"
+    "main.css": "/apps-per-day/static/css/main.a617e044.chunk.css",
+    "main.js": "/apps-per-day/static/js/main.ddff0e38.chunk.js",
+    "main.js.map": "/apps-per-day/static/js/main.ddff0e38.chunk.js.map",
+    "runtime-main.js": "/apps-per-day/static/js/runtime-main.5c9e81d6.js",
+    "runtime-main.js.map": "/apps-per-day/static/js/runtime-main.5c9e81d6.js.map",
+    "static/js/2.dcab9478.chunk.js": "/apps-per-day/static/js/2.dcab9478.chunk.js",
+    "static/js/2.dcab9478.chunk.js.map": "/apps-per-day/static/js/2.dcab9478.chunk.js.map",
+    "static/js/3.4d1896fa.chunk.js": "/apps-per-day/static/js/3.4d1896fa.chunk.js",
+    "static/js/3.4d1896fa.chunk.js.map": "/apps-per-day/static/js/3.4d1896fa.chunk.js.map",
+    "index.html": "/apps-per-day/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/apps-per-day/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.dcab9478.chunk.js.LICENSE.txt": "/apps-per-day/static/js/2.dcab9478.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/apps-per-day/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.00452182.js",
+    "static/js/runtime-main.5c9e81d6.js",
     "static/js/2.dcab9478.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.ddff0e38.chunk.js"
